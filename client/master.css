@@ -7,7 +7,7 @@
         opacity: 0;
         transform: rotateX(-10deg);
 
-    )
+    }
 
     to {
         opacity: 1;
